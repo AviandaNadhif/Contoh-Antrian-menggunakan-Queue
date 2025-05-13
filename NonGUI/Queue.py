@@ -70,11 +70,6 @@ class Queue:
                 print(f"{i}. {name}")
 # Contoh penggunaan
 antrian = Queue()
-antrian.enqueue("Adit")
-antrian.enqueue("Nadhif")
-antrian.enqueue("Hardi")
-antrian.enqueue("Herzan")
-antrian.enqueue("Denis")
 print("============================================")
 print("                MIE GACOAN")
 print("============================================\n")
